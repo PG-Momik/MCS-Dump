@@ -44,3 +44,28 @@
 
 ### Q4
 ![TestGeometricObjects.png](FirstAssignmentPartTwo%2FQ4%2FTestGeometricObjects.png)
+
+# Second Assignment Outputs
+
+### Q1
+
+##### Compile time exception source
+![CompileTimeExceptionSource.png](SecondAssignment%2FQ1%2FCompileTimeExceptionSource.png)
+
+##### Compile time exception output
+![CompileTimeExceptionOutput.png](SecondAssignment%2FQ1%2FCompileTimeExceptionOutput.png)
+
+##### Compile time exception explanation
+The JIT throws an exception because the `radius` property is private. This means that `radius` can be directly accessed only by the `Circle` class.
+
+### Q2
+![TestRectangle.png](SecondAssignment%2FQ2%2FTestRectangle.png)
+
+### Q3
+![TestEmployee.png](SecondAssignment%2FQ3%2FTestEmployee.png)
+
+### Q4
+![TestInvoiceItem.png](SecondAssignment%2FQ4%2FTestInvoiceItem.png)
+
+### Q5
+![TestAccount.png](SecondAssignment%2FQ5%2FTestAccount.png)
