@@ -2,6 +2,7 @@
 
 ---
 
-> [!NOTE] My first heatmap
+> [!NOTE]
+>  My first heatmap
 
 ![look_at_this_graph.png](_images/look_at_this_graph.png)
